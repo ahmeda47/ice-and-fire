@@ -1,5 +1,5 @@
 {
-  "name":"ice-and-fire",
+  "name": "ice-and-fire",
   "main": "node_modules/expo/AppEntry.js",
   "homepage": "https://ahmeda47.github.io/ice-and-fire",
   "scripts": {
@@ -7,7 +7,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "expo": "~42.0.1",
@@ -18,7 +20,8 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "gh-pages": "^3.2.3"
   },
   "private": true
 }
