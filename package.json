@@ -1,5 +1,5 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "ice-and-fire",
   "homepage": "https://ahmeda47.github.io/ice-and-fire",
   "scripts": {
     "start": "expo start",
