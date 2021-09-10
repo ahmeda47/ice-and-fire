@@ -1,5 +1,6 @@
 {
-  "main": "ice-and-fire",
+  "name":"ice-and-fire",
+  "main": "App.js",
   "homepage": "https://ahmeda47.github.io/ice-and-fire",
   "scripts": {
     "start": "expo start",
