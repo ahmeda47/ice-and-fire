@@ -1,2 +1,2 @@
 # ice-and-fire
-After installing the dependencies, run expo start to start the app.
+Open the terminal and run the the command 'npm i' to install the dependencies. Then run 'expo start' to start the app.
