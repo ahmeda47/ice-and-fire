@@ -1,6 +1,6 @@
 {
   "name":"ice-and-fire",
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
